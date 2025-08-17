@@ -1,9 +1,16 @@
 HTMl file
-
 Hi Mena 
-
 How are you ?
+Nice to meet you 
+public void AddTwoNumbers(){
+x = 1 ;
+y = 3 ;
+z = x+y;
+System.out.println(z)
+}
+The above function is already tested and reviewed successgully
 
 Nice to meet you 
 
 I will update note.txt file
+
